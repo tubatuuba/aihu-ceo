@@ -39,9 +39,17 @@ Tommi 60 €/h. Könttä riippuu siitä montako tuntia htp on, ja haarukka on le
 Koko haarukka on siis **2 600 - 5 800 €**, mikä on 31 - 68 % projektin hinnasta. Se on liian
 leveä tuntilaskutukseen kiinteähintaisessa projektissa.
 
-**Päätös 17.9.: Tommille tarjotaan 3 000 € könttänä paketeista T1 - T7 sellaisina kuin ne on
-kirjattu.** Alla olevan analyysin suositus oli 4 000 €. Tarjottava summa on sitä matalampi, ja
+**Päätös 17.9.: Tommille tarjottiin 3 000 € könttänä paketeista T1 - T7 sellaisina kuin ne on
+kirjattu.** Alla olevan analyysin suositus oli 4 000 €. Tarjottu summa on sitä matalampi, ja
 mitä se tarkoittaa on kirjattu taulukon jälkeen.
+
+**Tarjotut ehdot 17.9.** Laskutus kolmessa osassa: aloitus 30 % (900 €), välietappi 35 %
+(1 050 €), luovutus 35 % (1 050 €). Tarjous esitettiin ilmoituksena eikä neuvotteluavauksena.
+Tommille lähteneessä viestissä ei ole projektin hintaa, katetta, päivähintaa eikä
+kapasiteettilukuja. Hänen vastaustaan ei ole vielä kirjattu.
+
+**Auki: mitä välietappi tarkoittaa.** Sitä ei sidottu pakettiin, joten toisen laskun peruste
+on sovittava ennen kuin lasku lähtee.
 
 | Könttä      | Osuus hinnasta | Jää Mikolle | Mikon €/pv | Tommin €/h jos 72 h |
 | ----------- | -------------- | ----------- | ---------- | ------------------- |
@@ -61,7 +69,8 @@ Se on tietoinen valinta eikä laskuvirhe: könttä siirtää ylityksen riskin To
 summalla se siirtyy laajemmin kuin 4 000 €:n suosituksella. Kaksi seurausta kannattaa pitää
 mielessä. Ehto laajuudesta on nyt tärkeämpi kuin ennen, koska vaje alkaa jo ennen arvion
 alarajaa eikä vasta ylärajalla. Ja koska hinta on alle sen mitä Tommin oma tuntihinta antaisi,
-se on neuvoteltava eikä ilmoitettava: jos hän laskee saman laskun, hän päätyy samaan lukuun.
+hän päätyy samaan lukuun jos laskee saman laskun. Tarjous tehtiin silti ilmoituksena eikä
+neuvotteluavauksena, eli jos summa otetaan puheeksi, aloite on hänen.
 
 **Miksi könttä eikä tunnit.** Viiville myytiin kiinteä hinta, eli ylityksen riski on jo Aihulla.
 Jos Tommille maksetaan tunneista, sama riski kertautuu: jos hänen osuutensa venyy ylärajaan,
