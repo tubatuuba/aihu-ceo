@@ -5,7 +5,7 @@
 kapasiteetti- eikä katelukuja.
 
 **Päivämäärä:** 2026-09-17
-**Tilanne:** projekti tilattu 15.9. (kiinteä hinta), julkaisu 30.10.
+**Tilanne:** projekti tilattu 15.9. (kiinteä hinta), julkaisu 30.10. Tommin könttä sovittu 17.9.
 
 ## 1. Jako
 
@@ -43,13 +43,15 @@ leveä tuntilaskutukseen kiinteähintaisessa projektissa.
 kirjattu.** Alla olevan analyysin suositus oli 4 000 €. Tarjottu summa on sitä matalampi, ja
 mitä se tarkoittaa on kirjattu taulukon jälkeen.
 
-**Tarjotut ehdot 17.9.** Laskutus kolmessa osassa: aloitus 30 % (900 €), välietappi 35 %
-(1 050 €), luovutus 35 % (1 050 €). Tarjous esitettiin ilmoituksena eikä neuvotteluavauksena.
-Tommille lähteneessä viestissä ei ole projektin hintaa, katetta, päivähintaa eikä
-kapasiteettilukuja. Hänen vastaustaan ei ole vielä kirjattu.
+**Sovittu 17.9.** Laskutus kolmessa osassa: aloitus 30 % (900 €), välietappi 35 % (1 050 €),
+luovutus 35 % (1 050 €). Tarjous esitettiin ilmoituksena eikä neuvotteluavauksena, ja Tommi
+hyväksyi sen samana iltana Slackissa ottamatta summaa puheeksi. Hän aloittaa perehtymisen
+18.9. Lähteneessä viestissä ei ole projektin hintaa, katetta, päivähintaa eikä
+kapasiteettilukuja.
 
-**Auki: mitä välietappi tarkoittaa.** Sitä ei sidottu pakettiin, joten toisen laskun peruste
-on sovittava ennen kuin lasku lähtee.
+**Auki: mitä välietappi tarkoittaa.** Sitä ei sidottu pakettiin, ja Tommi hyväksyi ehdot
+sellaisenaan. Toisen laskun peruste on siis yhä sopimatta, ja se on nyt sovitun ehdon
+täsmennys eikä tarjouksen viimeistely. Sovittava ennen kuin toinen lasku lähtee.
 
 | Könttä      | Osuus hinnasta | Jää Mikolle | Mikon €/pv | Tommin €/h jos 72 h |
 | ----------- | -------------- | ----------- | ---------- | ------------------- |
@@ -69,8 +71,9 @@ Se on tietoinen valinta eikä laskuvirhe: könttä siirtää ylityksen riskin To
 summalla se siirtyy laajemmin kuin 4 000 €:n suosituksella. Kaksi seurausta kannattaa pitää
 mielessä. Ehto laajuudesta on nyt tärkeämpi kuin ennen, koska vaje alkaa jo ennen arvion
 alarajaa eikä vasta ylärajalla. Ja koska hinta on alle sen mitä Tommin oma tuntihinta antaisi,
-hän päätyy samaan lukuun jos laskee saman laskun. Tarjous tehtiin silti ilmoituksena eikä
-neuvotteluavauksena, eli jos summa otetaan puheeksi, aloite on hänen.
+hän päätyy samaan lukuun jos laskee saman laskun. Tarjous tehtiin silti ilmoituksena, ja hän
+hyväksyi sen ottamatta summaa puheeksi. Riski ei siis toteutunut tarjousvaiheessa vaan siirtyi
+toimitukseen: sama laskelma on yhä tehtävissä siinä vaiheessa kun paketit venyvät.
 
 **Miksi könttä eikä tunnit.** Viiville myytiin kiinteä hinta, eli ylityksen riski on jo Aihulla.
 Jos Tommille maksetaan tunneista, sama riski kertautuu: jos hänen osuutensa venyy ylärajaan,
