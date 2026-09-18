@@ -5,7 +5,7 @@
 kapasiteetti- eikä katelukuja.
 
 **Päivämäärä:** 2026-09-17
-**Tilanne:** projekti tilattu 15.9. (kiinteä hinta), julkaisu 30.10.
+**Tilanne:** projekti tilattu 15.9. (kiinteä hinta), julkaisu 30.10. Tommin könttä sovittu 17.9.
 
 ## 1. Jako
 
@@ -39,14 +39,41 @@ Tommi 60 €/h. Könttä riippuu siitä montako tuntia htp on, ja haarukka on le
 Koko haarukka on siis **2 600 - 5 800 €**, mikä on 31 - 68 % projektin hinnasta. Se on liian
 leveä tuntilaskutukseen kiinteähintaisessa projektissa.
 
-**Suositus: 4 000 € könttänä paketeista T1 - T7 sellaisina kuin ne on kirjattu.**
+**Päätös 17.9.: Tommille tarjottiin 3 000 € könttänä paketeista T1 - T7 sellaisina kuin ne on
+kirjattu.** Alla olevan analyysin suositus oli 4 000 €. Tarjottu summa on sitä matalampi, ja
+mitä se tarkoittaa on kirjattu taulukon jälkeen.
+
+**Sovittu 17.9.** Laskutus kolmessa osassa: aloitus 30 % (900 €), välietappi 35 % (1 050 €),
+luovutus 35 % (1 050 €). Tarjous esitettiin ilmoituksena eikä neuvotteluavauksena, ja Tommi
+hyväksyi sen samana iltana Slackissa ottamatta summaa puheeksi. Hän aloittaa perehtymisen
+18.9. Lähteneessä viestissä ei ole projektin hintaa, katetta, päivähintaa eikä
+kapasiteettilukuja.
+
+**Auki: mitä välietappi tarkoittaa.** Sitä ei sidottu pakettiin, ja Tommi hyväksyi ehdot
+sellaisenaan. Toisen laskun peruste on siis yhä sopimatta, ja se on nyt sovitun ehdon
+täsmennys eikä tarjouksen viimeistely. Sovittava ennen kuin toinen lasku lähtee.
 
 | Könttä      | Osuus hinnasta | Jää Mikolle | Mikon €/pv | Tommin €/h jos 72 h |
 | ----------- | -------------- | ----------- | ---------- | ------------------- |
+| **3 000 €** | **35 %**       | **5 500 €** | **543 €**  | **42 €**            |
 | 3 500 €     | 41 %           | 5 000 €     | 494 €      | 49 €                |
-| **4 000 €** | **47 %**       | **4 500 €** | **444 €**  | **56 €**            |
+| 4 000 €     | 47 %           | 4 500 €     | 444 €      | 56 €                |
 | 4 300 €     | 51 %           | 4 200 €     | 415 €      | 60 €                |
 | 5 000 €     | 59 %           | 3 500 €     | 346 €      | 69 €                |
+
+**Mitä 3 000 € tarkoittaa.** Tommin 60 €/h:lla se vastaa 50 tuntia eli 6,7 htp, kun hänen
+osuutensa on arvioitu 7,25 - 12 htp:ksi. Summa on siis arvion alarajan alapuolella, ja koko
+haarukassa 2 600 - 5 800 € se osuu aivan alalaitaan: sen yli pääsee vain jos htp on
+käytännössä 6 tuntia. Keskikohdan 72 tunnilla efektiivinen tuntihinta on 42 €/h eli noin
+30 % sovitun alle.
+
+Se on tietoinen valinta eikä laskuvirhe: könttä siirtää ylityksen riskin Tommille, ja tällä
+summalla se siirtyy laajemmin kuin 4 000 €:n suosituksella. Kaksi seurausta kannattaa pitää
+mielessä. Ehto laajuudesta on nyt tärkeämpi kuin ennen, koska vaje alkaa jo ennen arvion
+alarajaa eikä vasta ylärajalla. Ja koska hinta on alle sen mitä Tommin oma tuntihinta antaisi,
+hän päätyy samaan lukuun jos laskee saman laskun. Tarjous tehtiin silti ilmoituksena, ja hän
+hyväksyi sen ottamatta summaa puheeksi. Riski ei siis toteutunut tarjousvaiheessa vaan siirtyi
+toimitukseen: sama laskelma on yhä tehtävissä siinä vaiheessa kun paketit venyvät.
 
 **Miksi könttä eikä tunnit.** Viiville myytiin kiinteä hinta, eli ylityksen riski on jo Aihulla.
 Jos Tommille maksetaan tunneista, sama riski kertautuu: jos hänen osuutensa venyy ylärajaan,
@@ -61,7 +88,7 @@ oleteta sisältyvän.
 oman alarajan 14,5**, ja se laskettiin yhdelle tekijälle. Kahden tekijän kokonaistyö on sama
 14,5 - 25 htp, mutta nyt siitä pitää maksaa kahdelle. Mikään könttä ei siis pidä Mikkoa
 600 eurossa päivältä: jotta niin kävisi, Tommille jäisi 2 400 €, mikä on 40 tuntia eli
-selvästi alle sovitun laajuuden. Kate tulee Mikon päivähinnasta, ja se on 444 € suositellulla
+selvästi alle sovitun laajuuden. Kate tulee Mikon päivähinnasta, ja se on 543 € tarjottavalla
 köntällä. Tämä ei ole uusi tieto vaan sama asia joka kirjattiin tarjousta tehdessä: myönnytys
 ei tullut laajuudesta vaan katteesta.
 
